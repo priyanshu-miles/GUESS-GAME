@@ -113,7 +113,7 @@ Some features I plan to add:
 
 ## 👨‍💻 Author
 
-Made by **Miles** while learning C programming.
+Made by **Priyanshu** while learning C programming.
 
 This project is part of my journey to improve my programming skills by building small and practical projects.
 
